@@ -94,7 +94,7 @@ bootswatch: solar
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#cc0066"
+text-color: "#ffffff"
 link-color: "#ff80bf"
 base-font-family: Roboto 
 font-cdn: 
