@@ -7,7 +7,7 @@ itemcategory,Item Category,,
 itemtype, Item Type,,
 medium, Medium,,
 gender, Gender,,
-label, Label,, true 
+label, Label,,
 culturalsignificance, Cultural Significance,,
 itemdescription, Item Description,,
 date, Date Acquired,,
