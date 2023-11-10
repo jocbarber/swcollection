@@ -1,17 +1,17 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-location,Location Created,
-itemcategory,Item Category,
-itemtype, Item Type, 
-medium, Medium, 
-gender, Gender, 
+title,Title,, 
+creator,Creator,,
+date,Date Created,,
+location,Location Created,,
+itemcategory,Item Category,,
+itemtype, Item Type,,
+medium, Medium,,
+gender, Gender,,
 label, Label, true 
-culturalsignificance, Cultural Significance, 
-itemdescription, Item Description, 
-date, Date Acquired 
-location,Location Acquired
-originalowner, Original Owner,
-additionalimage, Additional Image, 
+culturalsignificance, Cultural Significance,,
+itemdescription, Item Description,,
+date, Date Acquired,,
+location,Location Acquired,,
+originalowner, Original Owner,,
+additionalimage, Additional Image,,
 
