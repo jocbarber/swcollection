@@ -9,12 +9,12 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+#url: https://jocbarber.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-#baseurl: /collectionbuilder-gh 
+#baseurl: /swcollection  
 # location of code, the full url to your github repository
-source-code: https://jocbarber.github.io/swcollection/
+source-code: "https://jocbarber.github.io/swcollection/"
 
 ##########
 # SITE SETTINGS
@@ -22,10 +22,10 @@ source-code: https://jocbarber.github.io/swcollection/
 # title of site appears in banner
 title: "The Historic Clothing Collection of Dr. Sophie White" 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "An example of items from Dr. Sophie White's personal collection"
+tagline: "A collection of items from Dr. Sophie White's personal collection"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Historic Clothing Collection of Dr. Sophie White features many many of the items from Dr. White's collection as well as the history and social significance of these items."
+description: "The Historic Clothing Collection of Dr. Sophie White is a digital collection featuring many of the items from Dr. White's collection."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "Jo Barber"
 
