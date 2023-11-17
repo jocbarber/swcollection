@@ -21,16 +21,30 @@ home-banner-image-position: "center"
 browse-buttons: true
 
 ##########
-# SUBJECTS PAGE
+# CATEGORY
 #
-subjects-fields: "subject;medium"
+subjects-fields: "subject"
 subjects-min: 1 
 subjects-stopwords: 
 
 ##########
-# LOCATIONS PAGE
+# MEDIUM
 #
-locations-fields: "location;location"
+subjects-fields: "medium"
+subjects-min: 1 
+subjects-stopwords: 
+
+##########
+# LOCATION OF CREATION
+#
+locations-fields: "country"
+locations-min: 1 
+locations-stopwords: 
+
+##########
+# LOCATION OF AQUISITION
+#
+locations-fields: "location"
 locations-min: 1 
 locations-stopwords: 
 
@@ -39,7 +53,7 @@ locations-stopwords:
 #
 # see _data/map-config.csv for field display options
 latitude: 51.5072 
-longitude: 0.1276
+longitude: -0.1276
 zoom-level: 5 
 map-base: "Esri_WorldImagery"
 map-search: true
