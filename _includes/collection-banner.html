@@ -1,14 +1,14 @@
 {% if page.layout == "home-infographic" and site.data.theme.featured-image %}
 <style>
 #home-banner {
-    background-image: "/objects/crochetcardigan_buttons.JPG"
+    background-image: /objects/crochetcardigan_buttons.JPG;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: {{ site.data.theme.home-banner-image-position | default: 'center' }};
+    background-position: 'center';
 }
 #home-title-box {
-    padding-top: {{ site.data.theme.home-title-y-padding | default: '5em' }};
-    padding-bottom: {{ site.data.theme.home-title-y-padding | default: '5em' }};
+    padding-top: 5em;
+    padding-bottom: 5em;
 }
 @media screen and (max-width: 576px) {
     #home-title-box {
