@@ -25,7 +25,7 @@ title: "The Historic Clothing Collection of Dr. Sophie White"
 tagline: "A collection of items from Dr. Sophie White's personal collection"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Historic Clothing Collection of Dr. Sophie White is a digital collection featuring many of the items from Dr. White's collection."
+description: "This a digital collection featuring key items from the personal collection of Dr. Sophie White."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "Jo Barber"
 
@@ -34,7 +34,7 @@ author: "Jo Barber"
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: "dataabdata"
+metadata: "swfinal"
 
 ##########
 # Site/Organization Branding 
