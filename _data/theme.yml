@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: "sw111"
+featured-image: objectid="sw111"
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em
 # optional: change position of background image, center, top, bottom
@@ -72,7 +72,7 @@ year-nav-increment: 10
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "format,title,creator,date,description,subject,location,latitude,longitude,category,medium,gender,label,culture,date,location,latitude,longitude,originalowner,additionalimage"
+metadata-export-fields: "format,title,creator,date,description,subject,location,latitude,longitude,category,medium,gender,label,culture,date,location,latitude,longitude,originalowner"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 
