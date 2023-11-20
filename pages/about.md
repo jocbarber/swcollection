@@ -14,14 +14,13 @@ credits: true
 
 ## About the Collection
 
+This site was created to display images and data about Dr. Sophie White's personal historical clothing collection. Dr. White teaches in the American Studies department at the University of Notre Dame where she focuses on Gender, Race and Slaver, French Colonial America, and most importantly to this project, Material Culture. Despite her interests broadening throughout her career, Dr. White has always had a passion for historical clothing; having collected and worn most of the items in her collection in her daily life –especially during her time at the University of Edinburgh. As an example of her collection, this site contains a mix of clothing items, jewelry, shoes, and hats, all ranging in production from the 1860s to 1980s. There are also images of Dr. White wearing certain items in the late 1980s. 
+
+Dr. White’s interest in material culture combined with her love of historical dress makes her unique collection a perfect aid in understanding the history of dress. Because this collection is somewhat personal to myself and my family, the target audience is Sophie White herself. Secondary audiences and potential users include those interested in the history of clothing/dress, those studying material culture, general vintage and historical clothing lovers.
+
+## Technical Credits - CollectionBuilder
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
